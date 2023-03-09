@@ -287,5 +287,3 @@
      IOUtils.close(vectorDict);
    }
  }
- 
- 
